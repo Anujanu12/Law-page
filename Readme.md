@@ -10,4 +10,4 @@ fit image in half of part of body
 
 link is here
 
-[https://Law-landingpage.netlify.app](https://law-landingpage.netlify.app)
+[https://law-page-self.vercel.app/](https://law-page-self.vercel.app/)
